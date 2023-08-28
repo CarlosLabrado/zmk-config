@@ -90,7 +90,7 @@
                         &trans       &trans       &trans       &trans  &trans   &trans  &trans    &trans    &previous_desk   &next_desk
             >;
 
-            sensor-bindings = <&inc_dec_kp C_PREV C_NEXT>;
+            sensor-bindings = <&inc_dec_kp C_NEXT C_PREV>;
         };
     };
 };
